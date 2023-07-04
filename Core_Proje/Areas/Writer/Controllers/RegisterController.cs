@@ -61,4 +61,3 @@ namespace Core_Proje.Areas.Writer.Controllers
         }
     }
 }
-// 123456aA*
